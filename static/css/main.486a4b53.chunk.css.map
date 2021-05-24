@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,YAAa,CACb,wBAAkC,CAClC,iBACF,CAEA,QACE,wBACF","file":"main.486a4b53.chunk.css","sourcesContent":[".btn {\n  margin: 10px;\n  padding: 10px;\n  background-color: rgb(41, 85, 228);\n  border-radius: 5px;\n}\n\n.active {\n  background-color: rgb(17, 202, 78);\n}\n"]}
